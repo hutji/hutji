@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently, I am working on developing web applications using Python, Django and FastAPI.<br><br>👯 I am looking to collaborate on interesting projects related to web development.<br><br>🌱 I am currently exploring new approaches to microservices development and creating innovative solutions for everyday problems.<br><br>📫 How to reach me https://t.me/hutjinator
+🔭 Currently, I am working on developing web applications using Python, Django and FastAPI.<br><br><br><br>🌱 I am currently exploring new approaches to microservices development and creating innovative solutions for everyday problems.<br><br>📫 How to reach me https://t.me/hutjinator
 
 
 ## 🌐 Socials:
